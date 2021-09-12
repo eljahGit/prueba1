@@ -1,9 +1,9 @@
-h1, h2 { 
-  color: rgb(57, 4, 252);
+h2 { 
+  color: black;
   font-size: 18px;
 }
 h2 {
-  font-size: 14px;
+  font-size: 18px;
 }
 p {
   color: black;
